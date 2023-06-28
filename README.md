@@ -1,1 +1,1 @@
-# devs4j-dragonball-dev.properties
+application.name = Desv4j configuration default DEV
