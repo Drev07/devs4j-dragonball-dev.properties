@@ -1,1 +1,1 @@
-application.name = Desv4j configuration default DEV
+application.name = Desv4j configuration default DEF
